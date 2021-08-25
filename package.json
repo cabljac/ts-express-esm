@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "ts-express",
+  "version": "1.0.0",
+  "description": "template node and express app with typescript using esm ",
+  "main": "src/app.ts",
+  "author": "<jacobcable94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.7.1",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.2.1"
+  }
+}
